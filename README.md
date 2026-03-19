@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Linda!
 
-I’m a frontend developer and a curious problem solver who loves a good challenge ⚡. I blend **big-picture thinking with detailed analysis**, combining creativity and structure to tackle problems. I enjoy building engaging user experiences that feel seamless and purposeful** 💻✨.  
+I’m a frontend developer and a curious problem solver who loves a good challenge ⚡. I blend **big-picture thinking with detailed analysis**, combining creativity and structure to tackle problems. I enjoy building engaging user experiences that feel seamless and purposeful 💻✨.  
 
 ---
 
