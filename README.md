@@ -19,8 +19,6 @@ I started in project management and coordination in fintech and tech, but seeing
 
 ## 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><br>React</td>
