@@ -1,19 +1,14 @@
 # 👋 Hi, I’m Linda!
 
-I’m a curious problem solver who loves a good challenge ⚡. I blend **big-picture thinking with detailed analysis**, combining creativity and structure to tackle problems. My goal is to build tech solutions that **merge development with business strategy** 💻✨.  
-
----
-
-## 💡 My Journey
-I started in project management and coordination in fintech and tech, but seeing developers create solutions inspired me to **build, not just manage** 🚀. Now, I focus on crafting experiences that solve real problems while **learning and experimenting every day** 🔧💡.  
+I’m a frontend developer and a curious problem solver who loves a good challenge ⚡. I blend **big-picture thinking with detailed analysis**, combining creativity and structure to tackle problems. I enjoy building engaging user experiences that feel seamless and purposeful** 💻✨.  
 
 ---
 
 ## 📚 A Bit About Me
-- I'm an avid reader with a book club called **The Bookshelf Camp** 📖.  
+- I'm an avid reader with a book club called **The Bookshelf Camp** 📖  
 - I love 50s to early 2000s music 🎶 Spotify says I am 76 years old! 😅
-- A space enthusiast through and through 🚀, a solo adventurer 🏞️, and a beach lover 🏖️  
-- Currently on a mission to finish *War and Peace* by Leo Tolstoy 📚  
+- A space enthusiast through and through 🚀, also love traveling 🏞️ and spending time on the beach 🏖️  
+- Currently on a mission to finish *War and Peace* by Leo Tolstoy 📚😁
 
 ---
 
@@ -48,16 +43,13 @@ I started in project management and coordination in fintech and tech, but seeing
 
 ---
 
-## 🎯 My Focus
-Becoming a **Fullstack Developer** 🌐, building scalable, user-friendly applications.  
+**Favorite mantra:** “Where there is a will, there is a way” 💪
 
 ---
 
-## 🌐 Let's Connect!
+## 🌐 Let's Connect?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lindamensah/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/linsah_?igsh=YTQwczI5YWRxcXp4&utm_source=qr)
 
----
 
-**Favorite mantra:** “Where there is a will, there is a way” 💪
