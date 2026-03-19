@@ -1,20 +1,19 @@
-# 👋 Hi, I’m Linda!  
+# 👋 Hi, I’m Linda!
 
-I’m a curious problem solver who loves challenges and structured problem-solving. I blend **big-picture thinking with detailed analysis**, and I’m passionate about building tech solutions that merge **development with business strategy**.  
+I’m a curious problem solver who loves a good challenge ⚡. I blend **big-picture thinking with detailed analysis**, combining creativity and structure to tackle problems. My goal is to build tech solutions that **merge development with business strategy** 💻✨.  
 
 ---
 
 ## 💡 My Journey
-I started in project management and coordination in fintech and tech, but seeing developers create solutions inspired me to **build, not just manage**. Now I focus on crafting apps that solve real problems while learning every day.  
+I started in project management and coordination in fintech and tech, but seeing developers create solutions inspired me to **build, not just manage** 🚀. Now, I focus on crafting experiences that solve real problems while **learning and experimenting every day** 🔧💡.  
 
 ---
 
 ## 📚 A Bit About Me
-- Founder of **The Bookshelf Camp**, a bi-monthly book club where we nominate, campaign for, and vote on books.  
-- Music lover (50s–2000s—Spotify says I'm 76 years old!)  
-- Journaling since age 9, solo adventurer, and beach enthusiast  
-- Favorite novels: *To Kill a Mockingbird*, *The Book Thief*, *Purple Hibiscus*, *Animal Farm*, *The Red Tent*  
-- Currently on a mission to finish *War and Peace* by Leo Tolstoy 😅 Phew!
+- I'm an avid reader with a book club called **The Bookshelf Camp** 📖.  
+- I love 50s to early 2000s music 🎶 Spotify says I am 76 years old! 😅
+- A space enthusiast through and through 🚀, a solo adventurer 🏞️, and a beach lover 🏖️  
+- Currently on a mission to finish *War and Peace* by Leo Tolstoy 📚  
 
 ---
 
@@ -34,23 +33,25 @@ I started in project management and coordination in fintech and tech, but seeing
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" width="40" />
 
----
-
-## 🚀 Projects
-- **[HireLink](https://hire-link.netlify.app/)** – Multi-step job applications, dashboards, and real-time applicant tracking.  
-- **[Bye-Bye Store](https://bye-bye-store.netlify.app/)** – Multi-vendor marketplace supporting full CRUD for products and marketing.  
-- **[CodeBlue](https://codeblue-app.netlify.app/)** – Emergency assistance platform with real-time geolocation for hospitals and pharmacies.  
+*(Hover over icons to see each skill)*  
 
 ---
 
-## 🎯 Focus
-Becoming a **Fullstack Developer**, building scalable, user-friendly applications.  
+## 🚀 A Few Selected Projects
+- **[HireLink](https://hire-link.netlify.app/)** – Multi-step job applications, dashboards, and real-time applicant tracking 📝  
+- **[Bye-Bye Store](https://bye-bye-store.netlify.app/)** – Multi-vendor marketplace supporting full CRUD for products and marketing 🛒  
+- **[CodeBlue](https://codeblue-app.netlify.app/)** – Emergency assistance platform with real-time geolocation for hospitals and pharmacies 🏥  
 
 ---
 
-## 🌐 Connect
+## 🎯 My Focus
+Becoming a **Fullstack Developer** 🌐, building scalable, user-friendly applications.  
+
+---
+
+## 🌐 Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/lindamensah/)  
 
 ---
 
-**Favorite mantra:** “Where there is a will, there is a way.”
+**Favorite mantra:** “Where there is a will, there is a way” 💪
