@@ -7,7 +7,7 @@ I’m a frontend developer and a curious problem solver who loves a good challen
 ## 📚 Fun Facts About Me
 - I'm an avid reader with a book club called **The Bookshelf Camp** 📖  
 - I love 50s to early 2000s music 🎶 Spotify says I am 76 years old! 😅
-- A space enthusiast through and through 🚀, also love traveling 🏞️ and spending time on the beach 🏖️  
+- A Space enthusiast through and through 🚀
 - Currently on a mission to finish *War and Peace* by Leo Tolstoy 📚😁
 
 ---
