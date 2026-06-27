@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Linda!
 
-I’m currently transitioning into tech from a non-tech background, a journey shaped by curiosity, persistence, and a love for problem-solving. 🚀
-
-I’m now focused on frontend development, learning by building and improving with every project.
+I’m currently transitioning into tech from a non-tech background, a journey shaped by curiosity, persistence, and a love for problem-solving. 🚀 I’m now focused on frontend development, learning by building and improving with every project.
 
 ---
 
