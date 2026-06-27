@@ -1,14 +1,8 @@
 # 👋 Hi, I’m Linda!
 
-I’m a frontend developer and a curious problem solver who loves a good challenge. ⚡ I blend **big-picture thinking with detailed analysis**, combining creativity and structure to tackle problems. I enjoy building engaging user experiences that feel seamless and purposeful 💻✨.  
+I’m currently transitioning into tech from a non-tech background, a journey shaped by curiosity, persistence, and a love for problem-solving. 🚀
 
----
-
-## 📚 Fun Facts About Me
-- I'm an avid reader with a book club called **The Bookshelf Camp** 📖  
-- I love 50s to early 2000s music 🎶 Spotify says I am 76 years old! 😅
-- A Space enthusiast through and through 🚀
-- Currently on a mission to finish *War and Peace* by Leo Tolstoy 📚😁
+I’m now focused on frontend development, learning by building and improving with every project.
 
 ---
 
