@@ -36,10 +36,6 @@ I’m currently transitioning into tech from a non-tech background, a journey sh
 
 ---
 
-**Favorite mantra:** “Where there is a will, there is a way” 💪
-
----
-
 ## 🌐 Let's Connect?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lindamensah/)
