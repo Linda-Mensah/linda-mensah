@@ -29,9 +29,10 @@ I’m currently transitioning into tech from a non-tech background, a journey sh
 ---
 
 ## 🚀 A Few Selected Projects
-- **[HireLink](https://hire-link.netlify.app/)** – Multi-step job applications, dashboards, and real-time applicant tracking 📝  
-- **[Bye-Bye Store](https://bye-bye-store.netlify.app/)** – Multi-vendor marketplace supporting full CRUD for products and marketing 🛒  
-- **[CodeBlue](https://codeblue-app.netlify.app/)** – Emergency assistance platform with real-time geolocation for hospitals and pharmacies 🏥  
+- **[HireLink](https://hire-link.netlify.app/)** – Multi-step job applications, dashboards, and real-time applicant tracking 📝
+- **[Deez Essence](https://www.deezessence.com/)** – E-commerce website with product browsing and ordering 🛍️
+- **[Livewell](https://www.livewellfestival.life/)** –  Wellness-focused event platform with CMS integration ❤️‍🩹
+- **[Bye-Bye Store](https://bye-bye-store.netlify.app/user-ads/)** – Multi-vendor marketplace supporting full CRUD for products and marketing 🛒  
 
 ---
 
